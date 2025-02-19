@@ -1,5 +1,5 @@
-# Getting Started with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
-This project was bootstrapped with Fastify-CLI.
+# Key Json DataBase
+Its like a key-value database, but it only stores JSON files. However the magic is that it will replicate these files to its peers, so that you have a local copy on each server.
 
 ## Available Scripts
 
@@ -8,16 +8,8 @@ In the project directory, you can run:
 ### `npm run dev`
 
 To start the app in dev mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:10001](http://localhost:10001) to view it in the browser.
 
 ### `npm start`
 
 For production mode
-
-### `npm run test`
-
-Run the test cases.
-
-## Learn More
-
-To learn Fastify, check out the [Fastify documentation](https://fastify.dev/docs/latest/).
